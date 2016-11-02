@@ -33,12 +33,12 @@
 	}
 
 	return {
-		add: add,
-		subtract: subtract,
-		multiply: multiply,
-		divide: divide,
-		total: total,
-		clear: clear
+		add,
+		subtract,
+		multiply,
+		divide,
+		total,
+		clear
 	};
 }
 
